@@ -11,6 +11,8 @@ el proyecto. El archivo esta dentro de la carpeta y se llama votacion.sql . Es i
 cuenta de dejar alli la carpeta que dice dhtmlxSuite, la cual contiene las libreiras para nuestra
 aplicación.
 
+La carpeta dhtmlxSuide hay que descomprimirla para poder que funcione la grid y la grafica, dejandola 
+en el directorio que aparece junto a los programas
 
 Iniciamos el xampp o el software que usamos para hacer desarrollos localmente  y vamos a la ruta
 en la que pegamos la carpeta ej: localhost/sistema_votacion/
